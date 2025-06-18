@@ -1,5 +1,6 @@
 # ✨ Ghibli Style Transfer using CycleGAN 🎨
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]([https://your-streamlit-app-link](https://cyclegan-app-6cvc3wgympvy9tskshngmf.streamlit.app/))
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://cyclegan-app-6cvc3wgympvy9tskshngmf.streamlit.app/)
+
 
 
 > 🧠 Transform real-world images into Studio Ghibli-style illustrations using a CycleGAN model built from scratch in PyTorch.  
