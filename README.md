@@ -175,12 +175,16 @@ Despite these challenges, the model achieved high-quality artistic translation.
 
 ---
 
-## 📄 Resources & Report
+## 📸 Results
 
-- 📘 Report: [`CV_PROJECT_FINAL_REPORT_FUSION_EYES_.pdf`](CV_PROJECT_FINAL_REPORT_FUSION_EYES_.pdf)
-- 📓 Notebook: `FiNAL_CV_GHIBHLI_STYLE_TRANSFER.ipynb`
-- 📚 [CycleGAN Paper](https://arxiv.org/abs/1703.10593)
-- 🔗 [Official CycleGAN GitHub](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)
+> Real → Ghibli style image transformation
+
+- ✅ Identity preserved using identity loss  
+- ✅ Texture and style successfully transferred  
+- ✅ Results improve as training progresses  
+
+📄 **To view full training outputs and sample images across epochs, see the report:**  
+[`CV_PROJECT_FINAL_REPORT_FUSION_EYES_.pdf`](CV_PROJECT_FINAL_REPORT_FUSION_EYES_.pdf)
 
 ---
 
