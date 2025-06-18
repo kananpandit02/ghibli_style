@@ -122,7 +122,6 @@ Implemented using a custom `Dataset` class in PyTorch.
 2. Select **GPU Runtime**
 3. Upload dataset and run cells
 
-### 🖥️ Run Locally
 
 ```bash
 # Clone the repository
@@ -137,7 +136,6 @@ pip install -r requirements.txt
 
 # Run training
 python train.py --dataset_dir ./dataset --epochs 50 --batch_size 1
-
 ####📊 Challenges & Discussion
 Challenge	Notes
 ⚠️ GAN Instability	Oscillating loss values; mode collapse occasionally
