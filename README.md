@@ -5,6 +5,7 @@
 > 🧠 Transform real-world images into Studio Ghibli-style illustrations using a CycleGAN model built from scratch in PyTorch.  
 > 🚀 Developed as a deep learning project by the **Fusion Eyes** team.
 
+
 ---
 
 ## 📌 Table of Contents
