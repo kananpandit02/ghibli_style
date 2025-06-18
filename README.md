@@ -171,7 +171,7 @@ Despite these challenges, the model achieved high-quality artistic translation.
 - 🧠 Add attention mechanisms (UGATIT, Self-Attention)  
 - 🎨 Introduce perceptual loss (VGG-based)  
 - 🖼️ Train with higher-resolution images  
-- 💡 Create Gradio/Streamlit web apps for real-time translation
+- 🌐 Extend or enhance the existing [Streamlit app](https://cyclegan-app-6cvc3wgympvy9tskshngmf.streamlit.app/) for more interactivity or batch processing
 
 ---
 
