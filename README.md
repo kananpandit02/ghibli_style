@@ -137,7 +137,7 @@ pip install -r requirements.txt
 # Run training
 python train.py --dataset_dir ./dataset --epochs 50 --batch_size 1
 
-📊 Challenges & Discussion
+####📊 Challenges & Discussion
 Challenge	Notes
 ⚠️ GAN Instability	Oscillating loss values; mode collapse occasionally
 🐌 Slow Convergence	Due to batch size = 1 (per CycleGAN recommendation)
@@ -145,7 +145,7 @@ Challenge	Notes
 
 Despite challenges, meaningful stylization was achieved.
 
-🔮 Future Work
+####🔮 Future Work
 🧠 Add attention mechanisms (UGATIT, Self-Attn GAN)
 
 🎨 Use perceptual loss (VGG-based)
