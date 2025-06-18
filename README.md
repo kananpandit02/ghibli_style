@@ -174,18 +174,7 @@ Despite these challenges, the model achieved high-quality artistic translation.
 
 ---
 
-## 📸 Results
 
-> Real → Ghibli style image transformation
-
-- ✅ Identity preserved using identity loss  
-- ✅ Texture and style successfully transferred  
-- ✅ Results improve as training progresses  
-
-📄 **To view full training outputs and sample images across epochs, see the report:**  
-[`CV_PROJECT_FINAL_REPORT_FUSION_EYES_.pdf`](CV_PROJECT_FINAL_REPORT_FUSION_EYES_.pdf)
-
----
 
 ## 📬 Contact
 
